@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @martinbasinski
 - 👀 I’m interested in technology
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on front end projects
+- 🌱 I’m currently learning ruby on rails 
+- 💞️ I’m looking to collaborate on projects involed with rails.
 - 📫 How to reach me marcinbasinski@me.com
 
 <!---
